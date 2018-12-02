@@ -1,0 +1,28 @@
+{
+  "name": "advent-of-code-day-2",
+  "version": "1.0.0",
+  "description": "Advent Of code Day 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/computamike/AdventOfCode2018.git"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code",
+    "2018"
+  ],
+  "author": "Mike Hingley (computa_mike@hotmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/computamike/AdventOfCode2018/issues"
+  },
+  "homepage": "https://github.com/computamike/AdventOfCode2018#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}

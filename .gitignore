@@ -1,3 +1,5 @@
+# VSCode folder
+.vscode
 # Logs
 logs
 *.log
