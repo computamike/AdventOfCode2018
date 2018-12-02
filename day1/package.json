@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/computamike/AdventOfCode2018/issues"
   },
-  "homepage": "https://github.com/computamike/AdventOfCode2018#readme"
+  "homepage": "https://github.com/computamike/AdventOfCode2018#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
